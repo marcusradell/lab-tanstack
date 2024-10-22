@@ -1,3 +1,3 @@
 import { main } from "./main";
 
-console.log(main());
+main(8080);
